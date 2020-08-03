@@ -2,8 +2,8 @@
 
 Beside coding and sharing the source code on Github, I also write a tutorials on Medium.
 
-<details>
-<summary> My Medium stories </summary>
+
+**My Medium stories**
  
 > - [Microservices In Practice: Building Instagram Clone](https://medium.com/javarevisited/microservices-in-practice-developing-instagram-clone-introduction-4f6d78abdfa1)
  > 
@@ -16,5 +16,3 @@ Beside coding and sharing the source code on Github, I also write a tutorials on
 > - [Building Persistable One-to-One Chat Application using Spring Boot and WebSockets](https://medium.com/@amrkhaled_47016/building-persistable-one-to-one-chat-application-using-spring-boot-and-websockets-303ba5d30bb0)
  >
 > - [Setting up CI/CD Using GitHub Actions](https://medium.com/javarevisited/setting-up-ci-cd-using-github-actions-1568f080b2cc) 
-
-</details>
