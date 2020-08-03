@@ -4,16 +4,16 @@ Beside coding and sharing the source code on Github, I also write a tutorials on
 
 **My stories on Medium**
 
-> [Instagram Clone](https://medium.com/javarevisited/microservices-in-practice-developing-instagram-clone-introduction-4f6d78abdfa1)
+> - [Instagram Clone](https://medium.com/javarevisited/microservices-in-practice-developing-instagram-clone-introduction-4f6d78abdfa1)
  > 
-> [Building Scalable Facebook-like notifications using Server-Sent events and Redis](https://medium.com/javarevisited/building-scalable-facebook-like-notification-using-server-sent-event-and-redis-9d0944dee618) 
+> - [Building Scalable Facebook-like notifications using Server-Sent events and Redis](https://medium.com/javarevisited/building-scalable-facebook-like-notification-using-server-sent-event-and-redis-9d0944dee618) 
  > 
-> [Setting up CI/CD Using GitHub Actions](https://medium.com/javarevisited/setting-up-ci-cd-using-github-actions-1568f080b2cc) 
+> - [Setting up CI/CD Using GitHub Actions](https://medium.com/javarevisited/setting-up-ci-cd-using-github-actions-1568f080b2cc) 
  > 
-> [JWT and Social Authentication using Spring Boot](https://medium.com/javarevisited/jwt-and-social-authentication-using-spring-boot-90e4faaa9204)
+> - [JWT and Social Authentication using Spring Boot](https://medium.com/javarevisited/jwt-and-social-authentication-using-spring-boot-90e4faaa9204)
  > 
-> [Spring Boot Two-Factor Authentication](https://medium.com/javarevisited/spring-boot-two-factor-authentication-78e00aa10176)
+> - [Spring Boot Two-Factor Authentication](https://medium.com/javarevisited/spring-boot-two-factor-authentication-78e00aa10176)
  >
-> [Building Persistable One-to-One Chat Application using Spring Boot and WebSockets](https://medium.com/@amrkhaled_47016/building-persistable-one-to-one-chat-application-using-spring-boot-and-websockets-303ba5d30bb0)
+> - [Building Persistable One-to-One Chat Application using Spring Boot and WebSockets](https://medium.com/@amrkhaled_47016/building-persistable-one-to-one-chat-application-using-spring-boot-and-websockets-303ba5d30bb0)
 
 
