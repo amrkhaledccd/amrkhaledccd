@@ -2,8 +2,9 @@
 
 Beside coding and sharing the source code on Github, I also write a tutorials on Medium.
 
-**My stories on Medium**
-
+<details>
+<summary> My Medium stories </summary>
+ 
 > - [Microservices In Practice: Building Instagram Clone](https://medium.com/javarevisited/microservices-in-practice-developing-instagram-clone-introduction-4f6d78abdfa1)
  > 
 > - [Building Scalable Facebook-like notifications using Server-Sent events and Redis](https://medium.com/javarevisited/building-scalable-facebook-like-notification-using-server-sent-event-and-redis-9d0944dee618) 
@@ -16,4 +17,4 @@ Beside coding and sharing the source code on Github, I also write a tutorials on
  >
 > - [Setting up CI/CD Using GitHub Actions](https://medium.com/javarevisited/setting-up-ci-cd-using-github-actions-1568f080b2cc) 
 
-
+</details>
