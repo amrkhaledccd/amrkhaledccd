@@ -3,7 +3,7 @@
 Beside coding and sharing the source code on Github, I also write a tutorials on Medium.
 
 
-**:pencil: My Medium stories**
+**:book: My Medium stories**
  
 > - [Microservices In Practice: Building Instagram Clone](https://medium.com/javarevisited/microservices-in-practice-developing-instagram-clone-introduction-4f6d78abdfa1)
  > 
