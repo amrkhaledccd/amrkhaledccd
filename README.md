@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Beside coding and sharing the source the code on Github, I also write a tutorials on Medium.
+Beside coding and sharing the source code on Github, I also write a tutorials on Medium.
 
 **My stories on Medium**
 
