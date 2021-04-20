@@ -16,3 +16,7 @@ Beside coding and sharing the source code on Github, I also write a tutorials on
 > - [Building Persistable One-to-One Chat Application using Spring Boot and WebSockets](https://medium.com/@amrkhaled_47016/building-persistable-one-to-one-chat-application-using-spring-boot-and-websockets-303ba5d30bb0)
  >
 > - [Setting up CI/CD Using GitHub Actions](https://medium.com/javarevisited/setting-up-ci-cd-using-github-actions-1568f080b2cc) 
+
+### λ Github Stats
+![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrkhaledccd&theme=dark)
+![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=amrkhaledccd&theme=dark)
