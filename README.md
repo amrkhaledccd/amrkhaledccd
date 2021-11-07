@@ -20,6 +20,9 @@ Beside coding and sharing the source code on Github, I also write a tutorials on
  >
 > - [Setting up CI/CD Using GitHub Actions](https://medium.com/javarevisited/setting-up-ci-cd-using-github-actions-1568f080b2cc) 
 
+** Become a medium member to read every story from me (and thousands of other writers on Medium) **
+[Become a Medium member](https://medium.com/@amrkhaled_47016/membership)
+
 ### λ Github Stats
 ![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrkhaledccd&theme=dark)
 ![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=amrkhaledccd&theme=dark)
