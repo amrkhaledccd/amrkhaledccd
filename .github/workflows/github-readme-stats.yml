@@ -2,14 +2,15 @@ name: Generate GitHub Readme Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:   # Allows you to trigger it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - rescue-stats:
+      - name: Generate Stats Images
         uses: anuraghazra/github-readme-stats@master
         with:
-          USERNAME: amrkhaledccd
+          USERNAME: amrkhaledccd # Change this to your actual username
+
