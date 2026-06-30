@@ -24,3 +24,4 @@ Beside coding and sharing the source code on Github, I also write a tutorials on
 [Become a medium member to read every story from me (and thousands of other writers on Medium)](https://medium.com/@amrkhaled_47016/membership)
 
 ![My Stats](./profile-stats.svg)
+![My Top Languages](./profile-languages.svg)
