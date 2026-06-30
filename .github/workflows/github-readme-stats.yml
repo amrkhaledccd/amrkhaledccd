@@ -13,12 +13,12 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      # Step 2: Run the actual stats action tool
+      # Step 2: Run the actual stats action tool from the correct repo
       - name: Generate Stats Images
-        uses: anuraghazra/github-readme-stats-action@v2
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: theme=radical&show_icons=true
+          options: username=${{ github.repository_owner }}&theme=radical&show_icons=true
           path: profile-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,4 +30,3 @@ jobs:
           git add profile-stats.svg
           git commit -m "Update GitHub profile stats" || exit 0
           git push
-
